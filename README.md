@@ -6,6 +6,7 @@ Welcome! If you're here, chances are you love computers! Well, I do too. They ha
 * I mainly use Python but often work with Arduino C and HTML/CSS/JS, as well.
 * I have a YouTube channel and a website, where I post even more tech-related stuff! To check that out, visit my [LinkTree](https://linktr.ee/estech321)
 
+Looking for my code? check out the [repository tab](https://github.com/estech321?tab=repositories).
 
 <a href="https://github.com/estech321?tab=repositories"><img src="https://github.com/estech321/estech321/assets/131488942/c1ffcaca-336e-4a4d-93c8-3537c45ecdcf" width="300" height="auto">
 </a>
