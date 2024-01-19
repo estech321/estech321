@@ -6,6 +6,12 @@ Welcome! If you're here, chances are you love computers! Well, I do too. They ha
 * I mainly use Python but often work with Arduino C and HTML/CSS/JS, as well.
 * I have a YouTube channel and a website, where I post even more tech-related stuff! To check that out, visit my [LinkTree](https://linktr.ee/estech321)
 
+## Main areas of interest in technology
+![retro-apple](https://github.com/estech321/estech321/assets/131488942/d2ebf813-902a-408d-880c-77ec31d29f9e)
+![programming](https://github.com/estech321/estech321/assets/131488942/dca823ef-5f56-4a19-a311-f0f8ab27202a)
+![arduino](https://github.com/estech321/estech321/assets/131488942/93966c60-ad04-4508-96d6-d23a3a6a405a)
+![555 circuit](https://github.com/estech321/estech321/assets/131488942/d139eabb-4b78-4996-a9c4-994f75896a8b)
+
 ### Why haven't you posted on YouTube for a while?
 Well, I have been focusing more on learning and getting better at what I do before posting more. After all, you can't film a video unless you know about its topic. While I already know quite a bit, there's no end to knowledge, and by learning, I can make my videos even better. In the meantime, I will keep posting new code here on GitHub for you guys to check out.
 
