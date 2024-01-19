@@ -15,7 +15,7 @@ Welcome! If you're here, chances are you love computers! Well, I do too. They ha
     * Fascinated by the history of Apple
     * I own a Windows XP PC and a 2006 iMac running macOS Snow Leopard 
     * Aside from the few old computers I have, I also love watching YouTube videos on the topic - you can watch [mine](https://youtube.com/playlist?list=PLYpd--ks0QBb4puT4TCatcRiyW9lZTriC) or check out [Action Retro](https://www.youtube.com/c/ActionRetro).
-    * I like not only old computers, but all sorts of old tech such as oscilloscopes, word processors, and more.
+    * I not only like old computers, but all sorts of old tech such as oscilloscopes, word processors, and more.
 * **Programming**
     * Mainly in Python, exerimenting with all sorts of things like Pygame, Tkinter, and other basics but hoping to be able to work with SDRs soon.
     * I also know some HTML, CSS, and JavaScript, but not enough to fully build a website without a template of some kind.
