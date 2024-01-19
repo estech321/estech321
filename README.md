@@ -7,12 +7,23 @@ Welcome! If you're here, chances are you love computers! Well, I do too. They ha
 * I have a YouTube channel and a website, where I post even more tech-related stuff! To check that out, visit my [LinkTree](https://linktr.ee/estech321)
 
 ## Main areas of interest in technology
-
-|Retro Computing|Programming|Arduino|
-|--|--|--|
-|![retro-apple](https://github.com/estech321/estech321/assets/131488942/d2ebf813-902a-408d-880c-77ec31d29f9e)|![programming](https://github.com/estech321/estech321/assets/131488942/dca823ef-5f56-4a19-a311-f0f8ab27202a)|![arduino](https://github.com/estech321/estech321/assets/131488942/93966c60-ad04-4508-96d6-d23a3a6a405a)|![555 circuit](https://github.com/estech321/estech321/assets/131488942/d139eabb-4b78-4996-a9c4-994f75896a8b)
-
-
+* **Retro Computing**
+    * Fascinated by the history of Apple
+    * I own a Windows XP PC and a 2006 iMac running macOS Snow Leopard 
+    * Aside from the few old computers I have, I also love watching YouTube videos on the topic - you can watch [mine](https://youtube.com/playlist?list=PLYpd--ks0QBb4puT4TCatcRiyW9lZTriC) or check out [Action Retro](https://www.youtube.com/c/ActionRetro).
+    * I like not only old computers, but all sorts of old tech such as oscilloscopes, word processors, and more.
+* **Programming**
+    * Mainly in Python, exerimenting with all sorts of things like Pygame, Tkinter, and other basics but hoping to be able to work with SDRs soon.
+    * I also know some HTML, CSS, and JavaScript, but not enough to fully build a website without a template of some kind.
+    * Since I work with Arduinos fairly often, I am also familiar with Arduino C.
+* **Arduino**
+    * I have interfaced it with LCD displays, [played music through buzzers](https://youtu.be/D-Xrg87QFxc), read the ambient temperature, [driven a fully-DIY remote-control car](https://github.com/estech321/Arduino-RC-Wired), and more.
+    * I will continue to learn more about how to program and interface the Arduino.
+    * I hope to build a watch with an OLED screen using Arduno by the end of 2024!
+* **Random computer/circuit knowledge**
+    * Anywhere from Linux commands to HTTP requests to the file structure of macOS
+    * Basic understanding of CPU cycles, op codes, etc.
+    * Lots of random nerdy electronics factoids that would be impractical to list here
 
 
 
