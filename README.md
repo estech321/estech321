@@ -1,9 +1,6 @@
 ![estech-banner](https://github.com/estech321/estech321/assets/131488942/53573316-d56d-48ed-b7ed-a646e58c4811)
-<style>
-  @import url('Park_Tech_CG.woff');
-  font-family: 'Park Tech CG';
-</style>
-<p>estech test 2</p>
+
+
 Welcome! If you're here, chances are you love computers! Well, I do too. They have captivated my interest fully and have become my passion. Here's a bit about me:
 * I have a 6-year-old cat who loves to sleep all day. 🐱
 * I mainly use Python but often work with Arduino C and HTML/CSS/JS, as well.
