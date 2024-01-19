@@ -6,9 +6,8 @@ Welcome! If you're here, chances are you love computers! Well, I do too. They ha
 * I mainly use Python but often work with Arduino C and HTML/CSS/JS, as well.
 * I have a YouTube channel and a website, where I post even more tech-related stuff! To check that out, visit my [LinkTree](https://linktr.ee/estech321)
 
+![View Repositories button](https://github.com/estech321/estech321/assets/131488942/c1ffcaca-336e-4a4d-93c8-3537c45ecdcf)
 
-
- <a style="color: lightgreen;" href="https://github.com/estech321?tab=repositories"><h1 style="color: lightgreen;"> <center>Proceed to my repositories --></center></h1></a>
 
 ## Main areas of interest in technology
 * **Retro Computing**
