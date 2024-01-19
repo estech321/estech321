@@ -6,6 +6,10 @@ Welcome! If you're here, chances are you love computers! Well, I do too. They ha
 * I mainly use Python but often work with Arduino C and HTML/CSS/JS, as well.
 * I have a YouTube channel and a website, where I post even more tech-related stuff! To check that out, visit my [LinkTree](https://linktr.ee/estech321)
 
+
+
+ <h1 style="color: lightgreen;"> <center>Proceed to my repositories --></center></h1>
+
 ## Main areas of interest in technology
 * **Retro Computing**
     * Fascinated by the history of Apple
