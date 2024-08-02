@@ -15,7 +15,7 @@ Looking for my code? check out the [repository tab](https://github.com/estech321
     * Aside from the few old computers I have, I also love watching YouTube videos on the topic.
     * I not only like old computers, but all sorts of old tech such as oscilloscopes, word processors, and more.
 * **Programming**
-    * Mainly in Python, exerimenting with all sorts of things like Pygame, Tkinter, and other basics but hoping to be able to work with SDRs soon.
+    * Mainly in Python, experimenting with all sorts of things like Pygame, Tkinter, and other basics as well as software-defined radio (SDR) software.
     * I also know some HTML, CSS, and JavaScript, but not enough to fully build a website without a template of some kind.
     * Since I work with Arduinos fairly often, I am also familiar with Arduino C.
 * **Arduino**
