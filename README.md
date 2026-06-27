@@ -2,7 +2,7 @@
 
 I am a student focused on the intersection of **hardware engineering, embedded systems, and technical theater production**. I specialize in creating practical micro-controller solutions to improve my life :)
 
-- 🛠️ Currently building with: **Raspberry Pi Pico, Arduino, and CircuitPython/MicroPython**
+- 🛠️ Currently building with: **Raspberry Pi, Raspberry Pi Pico, Arduino, and ESP8266**
 - 🌐 Portfolio Website: [Link to your 1-page site]
 
 ---
